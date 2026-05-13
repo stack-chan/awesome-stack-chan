@@ -25,6 +25,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## Hardware
 
+- [Takao Kit Notes](https://raspberrypi.mongonta.com/about-products-stackchan-m5gobottom-version/) - Notes about the Takao kit and related hardware.
 ## 3D Printable Parts
 
 ## Firmware
