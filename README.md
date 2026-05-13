@@ -21,7 +21,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## Getting Started
 
-- [Stack-chan](https://github.com/stack-chan/stack-chan) - Official firmware.
+- [Stack-chan](https://github.com/stack-chan/stack-chan) - Firmware and project repository.
 
 ## Hardware
 
