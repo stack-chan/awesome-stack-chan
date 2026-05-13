@@ -29,6 +29,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## Firmware
 
+- [Stack-chan Tester](https://github.com/mongonta0716/stack-chan-tester) - Servo and motion test firmware for Stack-chan.
 ## Software
 
 ## AI / Conversation
