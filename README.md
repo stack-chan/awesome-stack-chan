@@ -29,6 +29,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## Firmware
 
+- [AI StackChan2](https://github.com/ToshihiroMakuuchi/AI_StackChan2) - AI conversation firmware for Stack-chan.
 ## Software
 
 ## AI / Conversation
