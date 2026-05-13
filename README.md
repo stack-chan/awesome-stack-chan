@@ -33,6 +33,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## AI / Conversation
 
+- [AI StackChan Minimal](https://github.com/A-Uta/AI_StackChan_Minimal) - Minimal AI conversation setup for Stack-chan.
 ## Mods
 
 ## Build Logs
