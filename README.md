@@ -29,6 +29,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## Firmware
 
+- [AI StackChan2 README](https://github.com/robo8080/AI_StackChan2_README) - Setup notes for AI StackChan2.
 ## Software
 
 ## AI / Conversation
