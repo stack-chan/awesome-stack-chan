@@ -33,6 +33,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## AI / Conversation
 
+- [StackFlow Releases](https://github.com/m5stack/StackFlow/releases) - Releases for local AI components used with M5Stack LLM workflows.
 ## Mods
 
 ## Build Logs
