@@ -29,6 +29,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## Firmware
 
+- [Stack-chan bit](https://github.com/akita11/Stack-chan_bit) - micro:bit integration for Stack-chan.
 ## Software
 
 ## AI / Conversation
