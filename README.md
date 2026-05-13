@@ -29,6 +29,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## Firmware
 
+- [SDU AI StackChan2](https://github.com/NoRi-230401/SDU-AI_StackChan2) - SD-updatable variant of AI StackChan2.
 ## Software
 
 ## AI / Conversation
