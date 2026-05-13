@@ -35,6 +35,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## Mods
 
+- [Cardputer LLM Case](https://github.com/kennel-org/miscellaneous_experimental/tree/main/CardputerLLM) - Case data for a Cardputer and LLM module setup.
 ## Build Logs
 
 ## Articles
