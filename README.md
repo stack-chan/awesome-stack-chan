@@ -29,6 +29,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## Firmware
 
+- [AI StackChan DevCam](https://github.com/ronron-gh/AI_StackChan2_DevCam) - Camera-based AI Stack-chan firmware for CoreS3.
 ## Software
 
 ## AI / Conversation
