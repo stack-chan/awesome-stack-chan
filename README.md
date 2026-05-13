@@ -29,6 +29,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## Firmware
 
+- [M5Unified StackChan Radiko](https://github.com/robo8080/M5Unified_StackChan_Radiko) - Radiko streaming player firmware for Stack-chan.
 ## Software
 
 ## AI / Conversation
