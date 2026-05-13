@@ -29,6 +29,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## Firmware
 
+- [Bluetooth Simple](https://github.com/mongonta0716/stackchan-bluetooth-simple) - Bluetooth speaker firmware with avatar reactions.
 ## Software
 
 ## AI / Conversation
