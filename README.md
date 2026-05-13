@@ -31,6 +31,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## Software
 
+- [Stack-chan Discord Bot](https://github.com/meganetaaan/stack-chan-bot) - Discord bot experiments for the Stack-chan community.
 ## AI / Conversation
 
 ## Mods
