@@ -21,6 +21,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## Getting Started
 
+- [Stack-chan Documentation](https://stack-chan.github.io/stack-chan/) - Documentation site for building and using Stack-chan.
 - [Stack-chan](https://github.com/stack-chan/stack-chan) - Firmware and project repository.
 
 ## Hardware
