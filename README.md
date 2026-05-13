@@ -21,6 +21,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## Getting Started
 
+- [Stack-chan Cosense](https://scrapbox.io/stack-chan/) - Community-maintained notes and resources for Stack-chan.
 - [Stack-chan](https://github.com/stack-chan/stack-chan) - Firmware and project repository.
 
 ## Hardware
