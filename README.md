@@ -27,6 +27,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## 3D Printable Parts
 
+- [Magnetic Stack-chan Body](https://github.com/kennel-org/stack-chan/tree/dev/v1.0/case) - Magnetic body case data for Stack-chan.
 ## Firmware
 
 ## Software
