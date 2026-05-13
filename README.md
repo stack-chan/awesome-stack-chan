@@ -27,6 +27,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## 3D Printable Parts
 
+- [Stack-chan 360 Unit Parts](https://github.com/washishi/stack-chan_360unit/tree/main/3D_Model) - 3D model data for a Stack-chan 360 unit.
 ## Firmware
 
 ## Software
