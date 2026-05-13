@@ -37,6 +37,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## Build Logs
 
+- [Core2 StackChan Setup](https://murasan-net.com/2025/04/14/m5stack-core2-stackchan-setup/) - Setup and troubleshooting notes for M5Stack Core2 and StackChan.
 ## Articles
 
 ## Videos
