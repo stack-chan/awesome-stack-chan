@@ -43,6 +43,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## Community
 
+- [Stack-chan Gallery](https://okimoku.com/gallery/) - Gallery of Stack-chan builds and examples.
 ## Contributing
 
 Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md)
