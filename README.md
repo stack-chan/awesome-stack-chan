@@ -41,6 +41,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## Videos
 
+- [AI Stack-chan PlatformIO Setup](https://www.youtube.com/watch?v=UF3eAtXTjYc) - Video guide for writing AI Stack-chan firmware with PlatformIO.
 ## Community
 
 ## Contributing
