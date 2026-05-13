@@ -29,6 +29,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## Firmware
 
+- [stackchan-arduino](https://github.com/stack-chan/stackchan-arduino) - Arduino framework firmware for Stack-chan.
 ## Software
 
 ## AI / Conversation
