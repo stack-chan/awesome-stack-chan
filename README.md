@@ -33,6 +33,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## AI / Conversation
 
+- [AI StackChan Ex](https://github.com/ronron-gh/AI_StackChan_Ex/) - AI conversation firmware with LLM, STT, and TTS integrations.
 ## Mods
 
 ## Build Logs
