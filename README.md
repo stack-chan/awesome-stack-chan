@@ -43,6 +43,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## Community
 
+- [Stack-chan Zoo](https://protopedia.net/prototype/6477) - Collection of Stack-chan-related works on Protopedia.
 ## Contributing
 
 Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md)
