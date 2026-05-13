@@ -21,6 +21,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## Getting Started
 
+- [Stack-chan on Protopedia](https://protopedia.net/prototype/2345) - Project overview and background for Stack-chan.
 - [Stack-chan](https://github.com/stack-chan/stack-chan) - Firmware and project repository.
 
 ## Hardware
