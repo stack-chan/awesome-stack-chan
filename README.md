@@ -25,6 +25,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## Hardware
 
+- [Glide Path Kit](https://hsgp.cart.fc2.com/ca127/1395/p-r-s/) - PETG enclosure kit for building Stack-chan.
 ## 3D Printable Parts
 
 ## Firmware
