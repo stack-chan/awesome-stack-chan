@@ -27,6 +27,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## 3D Printable Parts
 
+- [M5Stack CoreS3 SE Magnetic Bottom](https://www.thingiverse.com/thing:7087044) - Magnetic bottom part for M5Stack CoreS3 SE.
 ## Firmware
 
 ## Software
