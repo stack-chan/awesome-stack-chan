@@ -27,6 +27,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## 3D Printable Parts
 
+- [NekomimiLED for M30 Case](https://github.com/washishi/nekomimi_led_M30/tree/main/case) - Case data for NekomimiLED for M30.
 ## Firmware
 
 ## Software
