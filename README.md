@@ -25,6 +25,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## Hardware
 
+- [RT Stack-chan](https://github.com/rt-net/stack-chan) - Hardware and software resources for the RT Stack-chan kit.
 ## 3D Printable Parts
 
 ## Firmware
