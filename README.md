@@ -27,6 +27,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## 3D Printable Parts
 
+- [Stack-chan Case](https://github.com/stack-chan/stack-chan/tree/dev/v1.0/case) - Case data for Stack-chan.
 ## Firmware
 
 ## Software
