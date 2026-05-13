@@ -27,6 +27,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## 3D Printable Parts
 
+- [Basic v2.7 Magnetic Body](https://github.com/kim-xps12/stack-chan/tree/feature/magnet_shell_basic_v2.7/case/contributed/magnet_shell_basic_v2.7_SG90) - Magnetic body data for Basic v2.7.
 ## Firmware
 
 ## Software
