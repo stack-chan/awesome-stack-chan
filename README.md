@@ -27,6 +27,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## 3D Printable Parts
 
+- [Xiaozhi Avatar Face](https://github.com/Gitshaoxiang/xiaozhi-esp32-avatar/tree/main/3Dfiles) - 3D face data for Xiaozhi-style avatar hardware.
 ## Firmware
 
 ## Software
