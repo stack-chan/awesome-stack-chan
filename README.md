@@ -39,6 +39,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## Articles
 
+- [Stack-chan on Non-Core M5 Devices](https://qiita.com/Azuma_Kinjo/items/c6084b9b20c97573f7f8) - Article about making Stack-chan with non-Core M5 devices.
 ## Videos
 
 ## Community
