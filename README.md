@@ -43,6 +43,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## Videos
 
+- [AI Stack-chan Setup](https://www.youtube.com/watch?v=Tit3mTCMoYY) - Video guide for setting up AI Stack-chan.
 ## Community
 
 ## Contributing
