@@ -39,6 +39,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## Build Logs
 
+- [Stack-chan Assembly](https://senbaku.info/2023/10/24/stackchan/) - Assembly log for building Stack-chan.
 ## Articles
 
 ## Videos
