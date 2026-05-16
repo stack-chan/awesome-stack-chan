@@ -33,6 +33,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## Software
 
+- [Scratch with Stack-chan](https://protopedia.net/prototype/4967) - Scratch-based interaction project for Stack-chan.
 ## AI / Conversation
 
 ## Mods
