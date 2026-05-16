@@ -39,6 +39,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## Build Logs
 
+- [AI Stack-chan Build Guide](https://note.com/lionlab/n/n2367739374d9) - Guide for building an AI Stack-chan.
 ## Articles
 
 ## Videos
