@@ -31,6 +31,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 - [Takao 3D Models](https://github.com/mongonta0716/3DPrinter_Models) - 3D printable models and accessories for Stack-chan.
 ## Firmware
 
+- [AI StackChan2 README](https://github.com/robo8080/AI_StackChan2_README) - Setup notes for AI StackChan2.
 ## Software
 
 ## AI / Conversation
