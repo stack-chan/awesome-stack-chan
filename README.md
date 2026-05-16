@@ -43,6 +43,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## Videos
 
+- [Stack-chan YouTube Channel](https://www.youtube.com/@stack-chan) - YouTube channel for Stack-chan videos and event archives.
 ## Community
 
 ## Contributing
