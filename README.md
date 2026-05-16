@@ -45,6 +45,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## Community
 
+- [Stack-chan Advent Calendar 2025](https://qiita.com/advent-calendar/2025/stack-chan) - Advent calendar for Stack-chan articles.
 ## Contributing
 
 Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md)
