@@ -41,6 +41,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## Articles
 
+- [AI Stack-chan RT Setup](https://zenn.dev/karaage0703/articles/33bee5711bed66) - Setup article for AI Stack-chan with the RT kit.
 ## Videos
 
 ## Community
