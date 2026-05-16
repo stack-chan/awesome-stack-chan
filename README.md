@@ -39,6 +39,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## Build Logs
 
+- [Stack-chan Build Notes](https://sukkirishitasora.hatenablog.com/entry/2025/09/05/101932) - Build notes for making Stack-chan.
 ## Articles
 
 ## Videos
