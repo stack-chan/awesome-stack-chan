@@ -43,6 +43,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## Videos
 
+- [Stack-chan Kit Assembly](https://www.youtube.com/watch?v=nKvgkgAQz84) - Video guide for assembling a Stack-chan kit.
 ## Community
 
 ## Contributing
