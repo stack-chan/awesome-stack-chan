@@ -33,6 +33,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 ## Software
 
+- [Stack-chan meets Scratch with M5bitLess](https://protopedia.net/prototype/4957) - Scratch interaction project using M5bitLess.
 ## AI / Conversation
 
 ## Mods
