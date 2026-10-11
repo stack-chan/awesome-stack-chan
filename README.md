@@ -53,6 +53,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 - [stackchan-mcp](https://github.com/kisaragi-mochi/stackchan-mcp) - MCP server and ESP-IDF firmware that lets AI agents drive a Stack-chan over WebSocket (servos, avatar, LEDs, touch, camera, microphone).
 - [AI StackChan Ex](https://github.com/ronron-gh/AI_StackChan_Ex/) - AI conversation firmware with LLM, STT, and TTS integrations.
 - [AI StackChan Minimal](https://github.com/A-Uta/AI_StackChan_Minimal) - Minimal AI conversation setup for Stack-chan.
+- [StackFlow Releases](https://github.com/m5stack/StackFlow/releases) - Releases for local AI components used with M5Stack LLM workflows.
 ## Mods
 
 ## Build Logs
