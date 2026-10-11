@@ -65,6 +65,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 ## Articles
 
 - [AI Stack-chan RT Setup](https://zenn.dev/karaage0703/articles/33bee5711bed66) - Setup article for AI Stack-chan with the RT kit.
+- [Stack-chan on Non-Core M5 Devices](https://qiita.com/Azuma_Kinjo/items/c6084b9b20c97573f7f8) - Article about making Stack-chan with non-Core M5 devices.
 ## Videos
 
 ## Community
