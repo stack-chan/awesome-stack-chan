@@ -49,6 +49,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 - [Stack-chan Tester](https://github.com/mongonta0716/stack-chan-tester) - Servo and motion test firmware for Stack-chan.
 - [M5Unified StackChan Radiko](https://github.com/robo8080/M5Unified_StackChan_Radiko) - Radiko streaming player firmware for Stack-chan.
 - [Stack-chan bit](https://github.com/akita11/Stack-chan_bit) - micro:bit integration for Stack-chan.
+- [SDU AI StackChan2](https://github.com/NoRi-230401/SDU-AI_StackChan2) - SD-updatable variant of AI StackChan2.
 ## Software
 
 - [Scratch with Stack-chan](https://protopedia.net/prototype/4967) - Scratch-based interaction project for Stack-chan.
