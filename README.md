@@ -71,6 +71,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 ## Community
 
 - [Stack-chan Gallery](https://okimoku.com/gallery/) - Gallery of Stack-chan builds and examples.
+- [Stack-chan Zoo](https://protopedia.net/prototype/6477) - Collection of Stack-chan-related works on Protopedia.
 ## Contributing
 
 Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md)
