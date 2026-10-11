@@ -39,6 +39,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 - [AI StackChan2 README](https://github.com/robo8080/AI_StackChan2_README) - Setup notes for AI StackChan2.
 - [AI StackChan2](https://github.com/ToshihiroMakuuchi/AI_StackChan2) - AI conversation firmware for Stack-chan.
 - [BinsPack for StackChan Core2](https://github.com/NoRi-230401/BinsPack-for-StackChan-Core2) - Multi-application package support for StackChan Core2.
+- [AI StackChan DevCam](https://github.com/ronron-gh/AI_StackChan2_DevCam) - Camera-based AI Stack-chan firmware for CoreS3.
 ## Software
 
 - [Scratch with Stack-chan](https://protopedia.net/prototype/4967) - Scratch-based interaction project for Stack-chan.
