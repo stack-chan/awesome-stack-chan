@@ -36,6 +36,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 - [Stack-chan 360 Unit Parts](https://github.com/washishi/stack-chan_360unit/tree/main/3D_Model) - 3D model data for a Stack-chan 360 unit.
 - [Xiaozhi Avatar Face](https://github.com/Gitshaoxiang/xiaozhi-esp32-avatar/tree/main/3Dfiles) - 3D face data for Xiaozhi-style avatar hardware.
 - [Stack-chan Case](https://github.com/stack-chan/stack-chan/tree/dev/v1.0/case) - Case data for Stack-chan.
+- [Basic v2.7 Magnetic Body](https://github.com/kim-xps12/stack-chan/tree/feature/magnet_shell_basic_v2.7/case/contributed/magnet_shell_basic_v2.7_SG90) - Magnetic body data for Basic v2.7.
 ## Firmware
 
 - [stackchan-arduino](https://github.com/stack-chan/stackchan-arduino) - Arduino framework firmware for Stack-chan.
