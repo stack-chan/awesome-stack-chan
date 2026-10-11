@@ -42,6 +42,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 - [AI StackChan DevCam](https://github.com/ronron-gh/AI_StackChan2_DevCam) - Camera-based AI Stack-chan firmware for CoreS3.
 - [Bluetooth Simple](https://github.com/mongonta0716/stackchan-bluetooth-simple) - Bluetooth speaker firmware with avatar reactions.
 - [Stack-chan Tester](https://github.com/mongonta0716/stack-chan-tester) - Servo and motion test firmware for Stack-chan.
+- [M5Unified StackChan Radiko](https://github.com/robo8080/M5Unified_StackChan_Radiko) - Radiko streaming player firmware for Stack-chan.
 ## Software
 
 - [Scratch with Stack-chan](https://protopedia.net/prototype/4967) - Scratch-based interaction project for Stack-chan.
