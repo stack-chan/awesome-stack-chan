@@ -47,6 +47,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 ## Software
 
 - [Scratch with Stack-chan](https://protopedia.net/prototype/4967) - Scratch-based interaction project for Stack-chan.
+- [Stack-chan meets Scratch with M5bitLess](https://protopedia.net/prototype/4957) - Scratch interaction project using M5bitLess.
 ## AI / Conversation
 
 - [stackchan-mcp](https://github.com/kisaragi-mochi/stackchan-mcp) - MCP server and ESP-IDF firmware that lets AI agents drive a Stack-chan over WebSocket (servos, avatar, LEDs, touch, camera, microphone).
