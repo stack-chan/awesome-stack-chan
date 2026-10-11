@@ -77,6 +77,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 - [Stack-chan YouTube Channel](https://www.youtube.com/@stack-chan) - YouTube channel for Stack-chan videos and event archives.
 - [Stack-chan Kit Assembly](https://www.youtube.com/watch?v=nKvgkgAQz84) - Video guide for assembling a Stack-chan kit.
 - [AI Stack-chan Setup](https://www.youtube.com/watch?v=Tit3mTCMoYY) - Video guide for setting up AI Stack-chan.
+- [AI Stack-chan PlatformIO Setup](https://www.youtube.com/watch?v=UF3eAtXTjYc) - Video guide for writing AI Stack-chan firmware with PlatformIO.
 ## Community
 
 - [Stack-chan Gallery](https://okimoku.com/gallery/) - Gallery of Stack-chan builds and examples.
