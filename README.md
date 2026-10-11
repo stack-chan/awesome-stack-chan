@@ -37,6 +37,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 - [Xiaozhi Avatar Face](https://github.com/Gitshaoxiang/xiaozhi-esp32-avatar/tree/main/3Dfiles) - 3D face data for Xiaozhi-style avatar hardware.
 - [Stack-chan Case](https://github.com/stack-chan/stack-chan/tree/dev/v1.0/case) - Case data for Stack-chan.
 - [Basic v2.7 Magnetic Body](https://github.com/kim-xps12/stack-chan/tree/feature/magnet_shell_basic_v2.7/case/contributed/magnet_shell_basic_v2.7_SG90) - Magnetic body data for Basic v2.7.
+- [NekomimiLED for M30 Case](https://github.com/washishi/nekomimi_led_M30/tree/main/case) - Case data for NekomimiLED for M30.
 ## Firmware
 
 - [stackchan-arduino](https://github.com/stack-chan/stackchan-arduino) - Arduino framework firmware for Stack-chan.
