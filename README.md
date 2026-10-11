@@ -40,6 +40,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 - [AI StackChan2](https://github.com/ToshihiroMakuuchi/AI_StackChan2) - AI conversation firmware for Stack-chan.
 - [BinsPack for StackChan Core2](https://github.com/NoRi-230401/BinsPack-for-StackChan-Core2) - Multi-application package support for StackChan Core2.
 - [AI StackChan DevCam](https://github.com/ronron-gh/AI_StackChan2_DevCam) - Camera-based AI Stack-chan firmware for CoreS3.
+- [Bluetooth Simple](https://github.com/mongonta0716/stackchan-bluetooth-simple) - Bluetooth speaker firmware with avatar reactions.
 ## Software
 
 - [Scratch with Stack-chan](https://protopedia.net/prototype/4967) - Scratch-based interaction project for Stack-chan.
