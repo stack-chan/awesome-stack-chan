@@ -35,6 +35,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 - [stackchan-arduino](https://github.com/stack-chan/stackchan-arduino) - Arduino framework firmware for Stack-chan.
 ## Software
 
+- [Scratch with Stack-chan](https://protopedia.net/prototype/4967) - Scratch-based interaction project for Stack-chan.
 ## AI / Conversation
 
 - [stackchan-mcp](https://github.com/kisaragi-mochi/stackchan-mcp) - MCP server and ESP-IDF firmware that lets AI agents drive a Stack-chan over WebSocket (servos, avatar, LEDs, touch, camera, microphone).
