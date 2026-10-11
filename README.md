@@ -71,6 +71,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 - [Stack-chan on Non-Core M5 Devices](https://qiita.com/Azuma_Kinjo/items/c6084b9b20c97573f7f8) - Article about making Stack-chan with non-Core M5 devices.
 ## Videos
 
+- [Stack-chan YouTube Channel](https://www.youtube.com/@stack-chan) - YouTube channel for Stack-chan videos and event archives.
 ## Community
 
 - [Stack-chan Gallery](https://okimoku.com/gallery/) - Gallery of Stack-chan builds and examples.
