@@ -24,6 +24,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 - [Stack-chan Cosense](https://scrapbox.io/stack-chan/) - Community-maintained notes and resources for Stack-chan.
 - [Stack-chan](https://github.com/stack-chan/stack-chan) - Firmware and project repository.
 - [Stack-chan Documentation](https://stack-chan.github.io/stack-chan/) - Documentation site for building and using Stack-chan.
+- [Stack-chan on Protopedia](https://protopedia.net/prototype/2345) - Project overview and background for Stack-chan.
 
 ## Hardware
 
