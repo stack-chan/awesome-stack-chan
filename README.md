@@ -72,6 +72,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 - [Stack-chan Gallery](https://okimoku.com/gallery/) - Gallery of Stack-chan builds and examples.
 - [Stack-chan Zoo](https://protopedia.net/prototype/6477) - Collection of Stack-chan-related works on Protopedia.
+- [Stack-chan Advent Calendar 2025](https://qiita.com/advent-calendar/2025/stack-chan) - Advent calendar for Stack-chan articles.
 ## Contributing
 
 Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md)
