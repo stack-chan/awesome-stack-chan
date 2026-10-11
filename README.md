@@ -37,6 +37,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 - [stackchan-arduino](https://github.com/stack-chan/stackchan-arduino) - Arduino framework firmware for Stack-chan.
 - [AI StackChan2 README](https://github.com/robo8080/AI_StackChan2_README) - Setup notes for AI StackChan2.
+- [AI StackChan2](https://github.com/ToshihiroMakuuchi/AI_StackChan2) - AI conversation firmware for Stack-chan.
 ## Software
 
 - [Scratch with Stack-chan](https://protopedia.net/prototype/4967) - Scratch-based interaction project for Stack-chan.
