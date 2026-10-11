@@ -75,6 +75,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 ## Videos
 
 - [Stack-chan YouTube Channel](https://www.youtube.com/@stack-chan) - YouTube channel for Stack-chan videos and event archives.
+- [Stack-chan Kit Assembly](https://www.youtube.com/watch?v=nKvgkgAQz84) - Video guide for assembling a Stack-chan kit.
 ## Community
 
 - [Stack-chan Gallery](https://okimoku.com/gallery/) - Gallery of Stack-chan builds and examples.
