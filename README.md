@@ -60,6 +60,7 @@ Stack-chan / ｽﾀｯｸﾁｬﾝ.
 
 - [Stack-chan Build Notes](https://sukkirishitasora.hatenablog.com/entry/2025/09/05/101932) - Build notes for making Stack-chan.
 - [AI Stack-chan Build Guide](https://note.com/lionlab/n/n2367739374d9) - Guide for building an AI Stack-chan.
+- [Core2 StackChan Setup](https://murasan-net.com/2025/04/14/m5stack-core2-stackchan-setup/) - Setup and troubleshooting notes for M5Stack Core2 and StackChan.
 ## Articles
 
 - [AI Stack-chan RT Setup](https://zenn.dev/karaage0703/articles/33bee5711bed66) - Setup article for AI Stack-chan with the RT kit.
